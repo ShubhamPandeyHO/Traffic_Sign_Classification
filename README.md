@@ -16,6 +16,7 @@ Once the CNN model is built, you need to train the model on the training data. T
 
 You can use a variety of different optimizers to train the CNN model. A popular optimizer for training CNN models is Adam.
 
+
 Evaluate the CNN model
 Once the CNN model is trained, you need to evaluate its performance on the validation set. This will give you an idea of how well the model will generalize to new data.
 
@@ -31,7 +32,7 @@ Use a larger dataset. The more data you have, the better the model will be able 
 
 https://www.google.com/search?q=traffic+sign+dataset+-+classification+image&sca_esv=571531489&tbm=isch&sxsrf=AM9HkKnpHfpKcD0Afxc_0hPQOLYXxio-MA:1696673289003&source=lnms&sa=X&ved=2ahUKEwi-jsPF2OOBAxWocWwGHZ9JD_8Q_AUoAnoECAMQBA&biw=1366&bih=643&dpr=1#imgrc=136pV1u2I_YHaM
 
-
+DATA Link:- https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
 
 
 
